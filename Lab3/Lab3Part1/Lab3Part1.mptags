@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BNZ	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	51;"	l	line:51
+BNZ	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	55;"	l	line:55
+BNZ	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	81;"	l	line:81
+BNZ	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	85;"	l	line:85
+DECF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	49;"	l	line:49
+DECF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	53;"	l	line:53
+DECF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	79;"	l	line:79
+DECF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	83;"	l	line:83
+GOTO	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	89;"	l	line:89
+LOOP	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	25;"	l	line:25
+LOOP1_1	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	37;"	l	line:37
+LOOP1_2	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	67;"	l	line:67
+LOOP2_1	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	45;"	l	line:45
+LOOP2_2	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	75;"	l	line:75
+MOVLW	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	27;"	l	line:27
+MOVLW	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	33;"	l	line:33
+MOVLW	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	41;"	l	line:41
+MOVLW	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	57;"	l	line:57
+MOVLW	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	63;"	l	line:63
+MOVLW	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	71;"	l	line:71
+MOVWF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	29;"	l	line:29
+MOVWF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	35;"	l	line:35
+MOVWF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	43;"	l	line:43
+MOVWF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	59;"	l	line:59
+MOVWF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	65;"	l	line:65
+MOVWF	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	73;"	l	line:73
+NOP	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	39;"	l	line:39
+NOP	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	47;"	l	line:47
+NOP	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	69;"	l	line:69
+ORG	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	15;"	l	line:15
+START	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	19;"	l	line:19
+config	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	11;"	l	line:11
+config	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	13;"	l	line:13
+config	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	7;"	l	line:7
+config	C:\Users\Marc\Documents\ECE341L\Lab3\Lab3Part1.asm	9;"	l	line:9
